@@ -1,1 +1,13 @@
-# bastion_testing
+# Vector Customer Portal
+
+Vector helps customers manage vendor onboarding and support requests.
+
+## Support
+
+Contact your vendor representative for assistance.
+
+## Onboarding checklist
+
+- Confirm the vendor name.
+- Confirm the designated support contact.
+- Assign an owner for unresolved requests.
