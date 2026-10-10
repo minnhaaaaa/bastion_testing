@@ -4,7 +4,7 @@ Vector helps customers manage vendor onboarding and support requests.
 
 ## Support
 
-Contact your vendor representative for assistance.
+Contact the designated support owner with your vendor name and a description of the issue.
 
 ## Onboarding checklist
 
